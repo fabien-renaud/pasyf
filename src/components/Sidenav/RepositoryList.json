@@ -1,0 +1,13 @@
+{
+  "title": "GitLab",
+  "links": [
+    {
+      "label": "Client Web",
+      "href": "https://gitlab.com/pasyf/pasyf-interface"
+    },
+    {
+      "label": "API",
+      "href": "https://gitlab.com/pasyf/pasyf-api"
+    }
+  ]
+}

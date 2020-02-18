@@ -1,0 +1,21 @@
+{
+  "title": "Environments",
+  "links": [
+    {
+      "label": "Production",
+      "href": "https://www.cynthia.team"
+    },
+    {
+      "label": "Recette",
+      "href": "https://frontrecette.cynthia.team"
+    },
+    {
+      "label": "Développement",
+      "href": "https://frontdev.cynthia.team"
+    },
+    {
+      "label": "Localhost",
+      "href": "http://localhost:10080"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "API",
+  "links": [
+    {
+      "label": "Production",
+      "href": "https://cynthiaback.herokuapp.com/api-docs"
+    },
+    {
+      "label": "Recette",
+      "href": "https://recettecynthiaback.herokuapp.com/api-docs"
+    },
+    {
+      "label": "Développement",
+      "href": "https://devcynthiaback.herokuapp.com/api-docs"
+    },
+    {
+      "label": "Localhost",
+      "href": "http://localhost:10081/api-docs"
+    }
+  ]
+}
