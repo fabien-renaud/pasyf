@@ -29,11 +29,10 @@
         "jest": "^24.9.0",
         "jest-sonar-reporter": "^2.0.0",
         "sequelize-test-helpers": "^1.2.2",
-        "cross-env": "^7.0.0",
         "supertest": "^4.0.2"
     },
     "scripts": {
-        "start": "cross-env ENV_FILE=development node -r ./env src/index.js",
+        "start": "node src/index.js",
         "dev": "cross-env ENV_FILE=development nodemon -r ./env src/index.js",
         "lint": "eslint .",
         "test": "cross-env ENV_FILE=test jest --setupFiles ./env --coverage",
